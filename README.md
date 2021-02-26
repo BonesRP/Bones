@@ -1,2 +1,2 @@
 # Bones
-Resume/CV/Collection of Course Projects
+Resume/CV/Collection of completed projects and courses
